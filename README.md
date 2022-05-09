@@ -12,8 +12,8 @@ then go to "interface options->SPI->yes->press enter"
 #### There are two folder in GitHub repository
  * E_Paper_B&W (Black Color)
    * e_paper_1inch54.py        -> Run this file
-   * lib_1nch54_e_paper.py -> Library of 1.54 inch e-paper HAT
+   * lib_1nch54_e_paper.py -> Library of 1.54 inch e-paper
    
  * E-Paper_Red_Color (Red & Black Color)
    * e_paper_1inch54c.py  -> Run this file 
-   * lib_1nch54c_e_paper.py    -> Library of 1.54 inch e-paper red color HAT
+   * lib_1nch54c_e_paper.py    -> Library of 1.54 inch e-paper red color
