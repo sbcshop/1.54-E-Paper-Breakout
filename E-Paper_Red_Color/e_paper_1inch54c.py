@@ -23,15 +23,14 @@ try:
     draw_red = ImageDraw.Draw(red_image)
     #draw_black.rectangle((0, 10, 200, 34), fill = 0)
     draw_black.text((8, 12), 'hello world', font = font, fill = 0)
-
     e_paper.display_image(e_paper.buffer(black_image),e_paper.buffer(red_image))
-    time.sleep(1)
+    time.sleep(2)
     
     # read bmp file 
     black_image = Image.open('images/img1.bmp')
     red_image = Image.open('images/img2.bmp')    
     e_paper.display_image(e_paper.buffer(black_image),e_paper.buffer(red_image))
-    time.sleep(1)
+    time.sleep(2)
     
     e_paper.Clear_screen()
     
