@@ -37,5 +37,5 @@ try:
     e_paper.sleep()
     
 except KeyboardInterrupt:    
-    lib_1nch54c_e_paper.e_paper_config4.device_exit()
+    lib_1nch54c_e_paper.e_paper_config.device_exit()
     exit()
